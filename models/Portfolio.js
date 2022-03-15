@@ -3,6 +3,7 @@ const mongoose = require('../db/connection');
 const PortfolioSchema = new mongoose.Schema({
 	title: String,
 	image: String,
+    street_photos: String,
     projects: {
         title: String,
         description: String,
