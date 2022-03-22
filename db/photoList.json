@@ -73,11 +73,11 @@
     },
     {
         "title": "Fancy",
-        "street_photos": "https://i.imgur.com/0fjCZu7.jpg"
+        "street_photos": "https://i.imgur.com/qOZKAvQ.jpg"
     },
     {
         "title": "Fancy P2",
-        "street_photos": "https://i.imgur.com/qOZKAvQ.jpg"
+        "street_photos": "https://i.imgur.com/0fjCZu7.jpg"
     },
     {
         "title": "Fancy P3",
@@ -90,5 +90,9 @@
     {
         "title": "Ashville P2",
         "street_photos": "https://i.imgur.com/B8zld3J.jpg"
+    },
+    {
+        "title": "Ashville P3",
+        "street_photos": "https://i.imgur.com/aiPRfZE.jpg"
     }
 ]

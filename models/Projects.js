@@ -10,6 +10,8 @@ const ProjectsSchema = new mongoose.Schema({
 	photo_4: String,
 	photo_5: String,
 	photo_6: String,
+	instagram: String,
+	website: String,
 });
 
 const Projects = mongoose.model('Projects', ProjectsSchema);
